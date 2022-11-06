@@ -5,7 +5,10 @@ This project demonstrates the use of:
 2. Output values as inputs to other moduels/resources
 3. Meta arguments like Source & Version
 5. Folder architecture for designing modules
-
+6. Creating multiple resources
+7. For_each loops
+8. tfvars
+9. Config folders
 
 Resources used:
 1. VPC
